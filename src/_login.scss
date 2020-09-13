@@ -1,0 +1,146 @@
+// ====================================
+// login関係スタイルシート
+// ====================================
+.user_register {
+    padding: 40px 0;
+
+    .form_heading {
+        text-align: center;
+        margin-bottom: 24px;
+    }
+    .form_sub_heading{
+        text-align: center;
+        margin-bottom: 24px;
+    }
+    .form_container{
+        max-width: 80%;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+    .form_item{
+        &+.form_item{
+            margin-top: 24px;
+        }
+    }
+    .btn-container{
+        margin-top: 24px;
+    }
+    .btn-widthdraw{
+        text-align: center;
+    }
+
+    form {
+        label {
+            display: block;
+            font-size: 12px;
+        }
+
+        input[type="email"],
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 1em 0 12px;
+            padding-left: 0;
+            background: none;
+            color: #333;
+            font-size: 1.2em;
+            font-weight: 400;
+            border: none;
+            border-bottom: 1px solid $light-gray;
+            &:focus+.separator {
+                transform: scaleX(1) translateY(-2px);
+                opacity: 1;
+            }
+        }
+
+        input[type="submit"]{
+            color: white;
+            background: #ff7761;
+            padding: 1em 1.4em;
+            font-size: 1.2em;
+            border:none;
+            border-radius: 10px;
+            transition: all .3s ease-in-out;
+            &:hover{
+                opacity: .7;
+            }
+        }
+
+        .checkbox {
+            box-sizing: border-box;
+            cursor: pointer;
+            display: inline-block;
+            padding: 5px 30px;
+            position: relative;
+            width: auto;
+        }
+        .checkbox::before {
+            background: #fff;
+            border: 1px solid #666;
+            content: '';
+            display: block;
+            height: 16px;
+            left: 5px;
+            margin-top: -8px;
+            position: absolute;
+            top: 50%;
+            width: 16px;
+        }
+        .checkbox::after {
+            border-right: 3px solid #ff7761;
+            border-bottom: 3px solid #ff7761;
+            content: '';
+            display: block;
+            height: 9px;
+            left: 10px;
+            margin-top: -7px;
+            opacity: 0;
+            position: absolute;
+            top: 50%;
+            transform: rotate(45deg);
+            width: 5px;
+        }
+        input[type=checkbox]:checked + .checkbox::after {
+            opacity: 1;
+        }
+        
+    }
+    .separator {
+        height:2px;
+        width: 100%;
+        @include bg-main-color;
+        display: block;
+        transform: scaleX(0) translateY(-2px);
+        transform-origin: 50%;
+        opacity: 0;
+        transition: all .15s $curve;
+      }
+    .pass_remind_text,
+    .mypage_text{
+        margin-top: 24px;
+        text-align: right;
+        a{
+            color: $backColor;
+            text-decoration: underline;
+        }
+    }
+    .back_link{
+        margin-top: 24px;
+        a{
+            color: $backColor;
+        }
+    }
+
+
+}
+@include mq-up(){
+    .user_register {
+        padding: 80px 0;
+        .form_container{
+            max-width: 50%;
+        }
+        .form_heading{
+            margin-bottom: 32px;
+        }
+    }
+}

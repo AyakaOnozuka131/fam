@@ -1,0 +1,162 @@
+/* ------------------------------
+- 掲示板 関連CSS
+------------------------------ */
+.msg_contents {
+  margin: 40px 0;
+
+  .main_heading {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  .section {
+    .oneArea {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      max-width: 1024px;
+      margin: 50px auto;
+      padding: 0 10px;
+
+      .onebox {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+
+        &:nth-child(even) {
+          flex-direction: row-reverse;
+          margin-top: 20px;
+
+          .imgArea img {
+            max-width: 60px;
+            height: 60px;
+            border-radius: 50%;
+          }
+
+          .fukidasi {
+            background-color: #fde5e5;
+
+            &::before {
+              left: auto;
+              right: -15px;
+              border-left: 25px solid transparent;
+              border-top: 25px solid #fde5e5;
+            }
+
+            &::after {
+              left: auto;
+              right: -25px;
+              border-left: 25px solid transparent;
+              border-top: 25px solid #ffffff;
+            }
+          }
+        }
+
+        .imgArea {
+          width: 10%;
+          position: relative;
+          overflow: hidden;
+        }
+
+        &:nth-child(odd) {
+          .imgArea img {
+            max-width: 60px;
+            height: 60px;
+            border-radius: 50%;
+          }
+
+          .fukidasi {
+            &::before {
+              left: -15px;
+              border-left: 25px solid #f2f3f7;
+              border-top: 25px solid transparent;
+            }
+
+            &::after {
+              left: -25px;
+              border-left: 25px solid #ffffff;
+              border-top: 25px solid transparent;
+            }
+
+          }
+        }
+
+        .fukiArea {
+          width: 63%;
+        }
+
+        .fukidasi {
+          width: 100%;
+          position: relative;
+          padding: 25px;
+          background-color: #f2f3f7;
+          font-size: 18px;
+          color: #231815;
+          border-radius: 12px;
+          box-sizing: border-box;
+
+          &::before {
+            content: '';
+            position: absolute;
+            display: block;
+            width: 0;
+            height: 0;
+            border-radius: 50%;
+            transform: rotate(45deg);
+            top: 22px;
+            border-right: 25px solid transparent;
+            border-bottom: 25px solid transparent;
+          }
+
+          &::after {
+            content: '';
+            position: absolute;
+            display: block;
+            width: 0;
+            height: 0;
+            border-radius: 50%;
+            transform: rotate(45deg);
+            top: 40px;
+            border-right: 25px solid transparent;
+            border-bottom: 25px solid transparent;
+          }
+        }
+      }
+    }
+  }
+}
+@include mq-down(xl){
+  .msg_contents {
+    .section{
+      .oneArea{
+        .onebox{
+          &:nth-child(odd){
+            .imgArea img{
+              max-width: 70%;
+              top: 0;
+            }
+          }
+          &:nth-child(even){
+            .imgArea img{
+              max-width: 70%;
+              top: 0;
+              padding-right: 20px;
+            }
+          }
+          .fukidasi{
+            padding: 15px;
+            font-size: 14px;
+            &::before{
+              top: 8px;
+            }
+            &::after{
+              top: 20px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+

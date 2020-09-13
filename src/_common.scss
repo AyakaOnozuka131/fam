@@ -1,0 +1,165 @@
+/* ------------------------------
+- header
+------------------------------ */
+header {
+  width: 100%;
+  height: 80px;
+  @include bg-main-color;
+
+  .header_inner {
+    display: flex;
+    height: 80px;
+  }
+
+  h1.heading {
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+    margin: auto;
+  }
+}
+
+// nav
+nav {
+  display: block;
+  position: fixed;
+  top: 0;
+  right: -300px;
+  bottom: 0;
+  background: #ffffff;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  transition: all .5s;
+  z-index: 3;
+  opacity: 0;
+  width: 40%;
+
+  .inner {
+    padding: 80px 30px 40px;
+
+    .nav_item {
+      position: relative;
+      margin: 0;
+      border-bottom: 1px solid #333;
+
+      a {
+        display: block;
+        color: #333333;
+        font-size: 14px;
+        padding: 1em;
+        text-decoration: none;
+        transition-duration: 0.2s;
+
+        &:hover {
+          background: #e4e4e4;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  nav {
+    right: -220px;
+    width: 220px;
+  }
+}
+
+// nav_open
+.open {
+  nav {
+    right: 0;
+    opacity: 1;
+  }
+}
+
+// hambager
+header {
+  .ham {
+    display: block;
+    position: absolute;
+    top: 26px;
+    right: 30px;
+    width: 30px;
+    height: 30px;
+    transition: all .5s;
+    cursor: pointer;
+    z-index: 6;
+
+    span {
+      display: block;
+      position: absolute;
+      left: 0;
+      width: 30px;
+      height: 2px;
+      background-color: #fff;
+      border-radius: 4px;
+      transition: all .5s;
+
+      &:nth-child(1) {
+        top: 4px;
+      }
+
+      &:nth-child(2) {
+        top: 14px;
+      }
+
+      &:nth-child(3) {
+        bottom: 4px;
+      }
+    }
+  }
+
+  .open {
+    .ham {
+      span {
+        background-color: #333;
+
+        &:nth-child(1) {
+          -webkit-transform: translateY(10px) rotate(-315deg);
+          transform: translateY(10px) rotate(-315deg);
+        }
+
+        &:nth-child(2) {
+          opacity: 0;
+        }
+
+        &:nth-child(3) {
+          -webkit-transform: translateY(-10px) rotate(315deg);
+          transform: translateY(-10px) rotate(315deg);
+        }
+      }
+    }
+  }
+}
+
+// mask
+.ham_mask {
+  display: none;
+  transition: all .5s;
+}
+
+.open .ham_mask {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000000;
+  opacity: .8;
+  z-index: 2;
+  cursor: pointer;
+}
+/* ------------------------------
+- footer
+------------------------------ */
+footer{
+  padding: 8px;
+  text-align: center;
+  color: #fda085;//非対応のブラウザでの文字色を設定
+  background: -webkit-linear-gradient(0deg, #f6d365, #fda085);//背景色にグラデーションを指定
+  -webkit-background-clip: text;//テキストでくり抜く
+  -webkit-text-fill-color: transparent;//くり抜いた部分は背景を表示
+} 

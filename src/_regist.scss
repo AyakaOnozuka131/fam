@@ -1,0 +1,165 @@
+/* ------------------------------
+- プロフィール 関連CSS
+------------------------------ */
+.registPet_contents{
+  margin: 40px 0;
+  .main_heading{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 24px;
+  }
+  .main_column{
+    width: 100%;
+  }
+  .input_item_block{
+    position: relative;
+    label{
+      font-size: 12px;
+    }
+    +.input_item_block{
+      padding-top: 24px;
+    }
+    input[type="text"],
+    input[type="tel"],
+    input[type="number"],
+    input[type="email"],
+    select{
+      display: block;
+      box-sizing: border-box;
+      margin-top: 8px;
+      margin-bottom: 15px;
+      padding: 10px;
+      width: 100%;
+      height: 40px;
+      border: 1px solid #717171;
+      font-size: 16px;
+      border-radius: 5px;
+    }
+    textarea{
+      display: block;
+      box-sizing: border-box;
+      margin-top: 8px;
+      margin-bottom: 16px;
+      padding: 10px;
+      width: 100%;
+      height: 160px;
+      border: 1px solid #717171;
+      font-size: 16px;
+      border-radius: 5px;
+    }
+    .input_item_block_select{
+      position: relative;
+    }
+    .input_item_block_select::after{
+      font-family: "Font Awesome 5 Free";
+      content: '\f078';
+      font-weight: 900;
+      display: block;
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+    .area_drop{
+      margin-top: 8px;
+      margin-bottom: 16px;
+      width: 100%;
+      height: 140px;
+      background: $bg-gray;
+      color: #ccc;
+      text-align: center;
+      line-height: 150px;
+      position: relative;
+      box-sizing: border-box;
+      display: block;
+    }
+    // file 
+    input[type="file"]{
+      opacity: 0;
+      width: 100%;
+      height: 140px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 2;
+      border-radius: 5px;
+    }
+  }
+  .side_column{
+    width: 100%;
+    margin-top: 40px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    text-align: center;
+    a{
+      width: 50%;
+      text-decoration: underline;
+      &:nth-child(n+3){
+        margin-top: 8px;
+      }
+    }
+  }
+  .btn_container{
+    padding-top: 24px;
+    input[type="submit"]{
+      color: white;
+      background: #ff7761;
+      padding: 1em 1.4em;
+      font-size: 1.2em;
+      border:none;
+      border-radius: 10px;
+      transition: all .3s ease-in-out;
+      &:hover{
+          opacity: .7;
+      }
+    }
+  }
+}
+@include mq-up(){
+  .registPet_contents{
+    .main_heading{
+      margin-bottom: 32px;
+    }
+    .profEdit_contents_inner{
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+              justify-content: space-between;
+    }
+    .main_column{
+      width: 75%;
+    }
+    .side_column{
+      margin-top: 0;
+      display: block;
+      text-align: left;
+      width: 22%;
+      padding: 24px;
+      background: $bg-gray;
+      border-radius: 5px;
+      a{
+        width: 100%;
+        display: block;
+        text-decoration: underline;
+        &:hover{
+          opacity: 0.7;
+        }
+        +a{
+          margin-top: 8px;
+        }
+      }
+    }
+    input[type="text"],
+    input[type="tel"],
+    input[type="number"],
+    input[type="email"],
+    select{
+      height: 60px;
+    }
+  }
+}

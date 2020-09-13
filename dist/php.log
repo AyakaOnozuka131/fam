@@ -1,0 +1,1583 @@
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：「　一覧ページ　
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：セッションID：dv5527f6tjfgqmif5cpd267k8j
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1587891393
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：商品情報を取得します。
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：クエリ成功。
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：クエリ成功。
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：クエリ成功。
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：クエリ成功。
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：現在のページ：1
+[26-Apr-2020 17:56:33 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：「　一覧ページ　
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：セッションID：cabp3ud0e75j4qadeho3bb2dhq
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1588434834
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：商品情報を取得します。
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：現在のページ：1
+[03-May-2020 00:53:54 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：「　一覧ページ　
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：セッションID：c0le7dmlnsel4kcd1gokahm53n
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1588434838
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：商品情報を取得します。
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：SQlエラーArray
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selected' at line 1
+)
+
+[03-May-2020 00:53:58 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5 AND status_id = 0 selected
+[03-May-2020 00:53:58 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on int in /Users/ayaka/dev/fam/dist/function.php:320
+Stack trace:
+#0 /Users/ayaka/dev/fam/dist/index.php(33): getProductList(0, '5', '0 selected')
+#1 {main}
+  thrown in /Users/ayaka/dev/fam/dist/function.php on line 320
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：「　一覧ページ　
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：セッションID：pibdhrfm01dklsqv2bmon56c8o
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1588434840
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：商品情報を取得します。
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：現在のページ：1
+[03-May-2020 00:54:00 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：「　一覧ページ　
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：セッションID：qembs57cegvibkradt6tf6v9ef
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1588434843
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：商品情報を取得します。
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5 AND status_id = 2
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 5 AND status_id = 2 LIMIT 9 OFFSET 0
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：現在のページ：1
+[03-May-2020 00:54:03 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：「　一覧ページ　
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：セッションID：sgbsbvm8qfvbsppb8bt9jse4j8
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1588434846
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：商品情報を取得します。
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 3 AND status_id = 2
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 3 AND status_id = 2 LIMIT 9 OFFSET 0
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：現在のページ：1
+[03-May-2020 00:54:06 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：「　一覧ページ　
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：セッションID：3vnp0j7iprpebvv04fq4d573gg
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1588434850
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：商品情報を取得します。
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 0  AND status_id = 0 
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 0  AND status_id = 0  LIMIT 9 OFFSET 0
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：現在のページ：1
+[03-May-2020 00:54:10 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：「　一覧ページ　
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：セッションID：8gv6k6rg91vq7gvih3hbohtuku
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1588434852
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：商品情報を取得します。
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：SQlエラーArray
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selected' at line 1
+)
+
+[03-May-2020 00:54:12 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 2 AND status_id = 0 selected
+[03-May-2020 00:54:12 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on int in /Users/ayaka/dev/fam/dist/function.php:320
+Stack trace:
+#0 /Users/ayaka/dev/fam/dist/index.php(33): getProductList(0, '2', '0 selected')
+#1 {main}
+  thrown in /Users/ayaka/dev/fam/dist/function.php on line 320
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：「　一覧ページ　
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：セッションID：ja1bvnd91ujeovb6lgjddov0kh
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1588434853
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：商品情報を取得します。
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 0  AND status_id = 0 
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 0  AND status_id = 0  LIMIT 9 OFFSET 0
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：クエリ成功。
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：現在のページ：1
+[03-May-2020 00:54:13 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：「　一覧ページ　
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：セッションID：ldfbqcn2ihs9j5m7uf3pc66tvr
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1588900724
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：商品情報を取得します。
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：クエリ成功。
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：クエリ成功。
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：クエリ成功。
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：クエリ成功。
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：現在のページ：1
+[08-May-2020 10:18:44 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：「　一覧ページ　
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：セッションID：vacsi9cr28i4357vp5b3iqc964
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374380
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：商品情報を取得します。
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：現在のページ：1
+[06-Jun-2020 01:26:20 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：「　一覧ページ　
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：セッションID：belmgh7q5lu24f8om9rfimdd41
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374424
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：商品情報を取得します。
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：現在のページ：1
+[06-Jun-2020 01:27:04 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：「　一覧ページ　
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：セッションID：2uqbmh925ua4s79bhrn925qeec
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374502
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：商品情報を取得します。
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：現在のページ：1
+[06-Jun-2020 01:28:22 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：「　ペット詳細ページ　「
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：セッションID：ra507pglq5mjkb14j24ihbf0b3
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374504
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：商品情報を取得します。
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：商品ID：3
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：取得したDBデータ：Array
+(
+    [id] => 3
+    [name] => こまち
+    [comment] => こまちちゃんです！可愛いです！
+    [pic1] => uploads/a31aaaa237db10bb8f12d5917af7cbe52cfff361.png
+    [pic2] => uploads/9dc9c7784af7a37ac11b6019a2d30b5a135ad4a4.png
+    [pic3] => uploads/85b7432481a999088fd10e5eee16a57806bd203e.png
+    [user_id] => 4
+    [create_date] => 2020-03-29 21:07:20
+    [update_date] => 2020-04-11 02:15:30
+    [status] => 里親募集中
+)
+
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:28:24 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 80
+[06-Jun-2020 01:28:24 Asia/Tokyo] PHP Stack trace:
+[06-Jun-2020 01:28:24 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：お気に入り情報があるか確認します。
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：ユーザーID：1
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：商品情報1
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:28:24 Asia/Tokyo] デバッグ：特に気に入っていません。
+[06-Jun-2020 01:28:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:28:39 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[06-Jun-2020 01:28:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:28:39 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:28:39 Asia/Tokyo] デバッグ：セッションID：cdsi4cff2ku28b6pl0d59rv6hs
+[06-Jun-2020 01:28:39 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:28:39 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374519
+[06-Jun-2020 01:28:39 Asia/Tokyo] PHP Notice:  Undefined variable: siteTitle in /Users/ayaka/dev/fam/dist/head.php on line 9
+[06-Jun-2020 01:28:39 Asia/Tokyo] PHP Stack trace:
+[06-Jun-2020 01:28:39 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/signup.php:0
+[06-Jun-2020 01:28:39 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/fam/dist/signup.php:69
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：「　ペット詳細ページ　「
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：セッションID：552l1q37qppfgbkihf0m56f9qj
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374520
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：商品情報を取得します。
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：商品ID：3
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：取得したDBデータ：Array
+(
+    [id] => 3
+    [name] => こまち
+    [comment] => こまちちゃんです！可愛いです！
+    [pic1] => uploads/a31aaaa237db10bb8f12d5917af7cbe52cfff361.png
+    [pic2] => uploads/9dc9c7784af7a37ac11b6019a2d30b5a135ad4a4.png
+    [pic3] => uploads/85b7432481a999088fd10e5eee16a57806bd203e.png
+    [user_id] => 4
+    [create_date] => 2020-03-29 21:07:20
+    [update_date] => 2020-04-11 02:15:30
+    [status] => 里親募集中
+)
+
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:28:40 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 80
+[06-Jun-2020 01:28:40 Asia/Tokyo] PHP Stack trace:
+[06-Jun-2020 01:28:40 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：お気に入り情報があるか確認します。
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：ユーザーID：1
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：商品情報1
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:28:40 Asia/Tokyo] デバッグ：特に気に入っていません。
+[06-Jun-2020 01:28:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:28:48 Asia/Tokyo] デバッグ：「　Ajax　
+[06-Jun-2020 01:28:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:28:48 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:28:48 Asia/Tokyo] デバッグ：セッションID：s6qa7u37b0hiummuqehdmfsotd
+[06-Jun-2020 01:28:48 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:28:48 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374528
+[06-Jun-2020 01:28:48 Asia/Tokyo] デバッグ：Ajax処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:29:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:04 Asia/Tokyo] デバッグ：「　一覧ページ　
+[06-Jun-2020 01:29:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:04 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：セッションID：5l74270mqt7l6fm2pitb3pnllr
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374545
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：商品情報を取得します。
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：現在のページ：1
+[06-Jun-2020 01:29:05 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：「　一覧ページ　
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：セッションID：qckmi6vbvdug3ik5bgre6bgv5h
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374552
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：商品情報を取得します。
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5 AND status_id = 2
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 5 AND status_id = 2 LIMIT 9 OFFSET 0
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：現在のページ：1
+[06-Jun-2020 01:29:12 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：「　一覧ページ　
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：セッションID：tr887noacvdaru3mie9ld3rlu3
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374554
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：商品情報を取得します。
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：現在のページ：1
+[06-Jun-2020 01:29:14 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：「　ペット詳細ページ　「
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：セッションID：40ecm76rlte0u587fivfvccjcn
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374559
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：商品情報を取得します。
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：商品ID：3
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：取得したDBデータ：Array
+(
+    [id] => 3
+    [name] => こまち
+    [comment] => こまちちゃんです！可愛いです！
+    [pic1] => uploads/a31aaaa237db10bb8f12d5917af7cbe52cfff361.png
+    [pic2] => uploads/9dc9c7784af7a37ac11b6019a2d30b5a135ad4a4.png
+    [pic3] => uploads/85b7432481a999088fd10e5eee16a57806bd203e.png
+    [user_id] => 4
+    [create_date] => 2020-03-29 21:07:20
+    [update_date] => 2020-04-11 02:15:30
+    [status] => 里親募集中
+)
+
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:29:19 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 80
+[06-Jun-2020 01:29:19 Asia/Tokyo] PHP Stack trace:
+[06-Jun-2020 01:29:19 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：お気に入り情報があるか確認します。
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：ユーザーID：1
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：商品情報1
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:19 Asia/Tokyo] デバッグ：特に気に入っていません。
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：「　Ajax　
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：セッションID：nr9659khdmkcb64rg6glfjjptn
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374568
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：Ajax処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：「　Ajax　
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：セッションID：bm4r61daeg0dc2to0clahgk89n
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374568
+[06-Jun-2020 01:29:28 Asia/Tokyo] デバッグ：Ajax処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:29:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:29 Asia/Tokyo] デバッグ：「　Ajax　
+[06-Jun-2020 01:29:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:29:29 Asia/Tokyo] デバッグ：セッションID：taiiulkij197fjfb6u85nabjlj
+[06-Jun-2020 01:29:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:29:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374569
+[06-Jun-2020 01:29:29 Asia/Tokyo] デバッグ：Ajax処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：「　ペット詳細ページ　「
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：セッションID：3mj0mepmp8nepb4vj3d4shg7ig
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374571
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：商品情報を取得します。
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：商品ID：3
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：取得したDBデータ：Array
+(
+    [id] => 3
+    [name] => こまち
+    [comment] => こまちちゃんです！可愛いです！
+    [pic1] => uploads/a31aaaa237db10bb8f12d5917af7cbe52cfff361.png
+    [pic2] => uploads/9dc9c7784af7a37ac11b6019a2d30b5a135ad4a4.png
+    [pic3] => uploads/85b7432481a999088fd10e5eee16a57806bd203e.png
+    [user_id] => 4
+    [create_date] => 2020-03-29 21:07:20
+    [update_date] => 2020-04-11 02:15:30
+    [status] => 里親募集中
+)
+
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：POST送信があります。
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[06-Jun-2020 01:29:31 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 38
+[06-Jun-2020 01:29:31 Asia/Tokyo] PHP Stack trace:
+[06-Jun-2020 01:29:31 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：SQlエラーArray
+(
+    [0] => 23000
+    [1] => 1048
+    [2] => Column 'buy_user' cannot be null
+)
+
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[06-Jun-2020 01:29:31 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 80
+[06-Jun-2020 01:29:31 Asia/Tokyo] PHP Stack trace:
+[06-Jun-2020 01:29:31 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：お気に入り情報があるか確認します。
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：ユーザーID：1
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：商品情報1
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：クエリ成功。
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：特に気に入っていません。
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：「　ログインページ　
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：セッションID：lcvgss3umvr0pqm996ten5c2q8
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591374571
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[06-Jun-2020 01:29:31 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：「　一覧ページ　
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：セッションID：a2ftn7bb8rosj7qd4rcf9kn5ug
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591836034
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：商品情報を取得します。
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：クエリ成功。
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：クエリ成功。
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：クエリ成功。
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：クエリ成功。
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：現在のページ：1
+[11-Jun-2020 09:40:34 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：「　一覧ページ　
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：セッションID：4i2ghtrsnn7vo3r635dfukud1s
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591836043
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：商品情報を取得します。
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：クエリ成功。
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：クエリ成功。
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：クエリ成功。
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：クエリ成功。
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：現在のページ：1
+[11-Jun-2020 09:40:43 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：「　一覧ページ　
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：セッションID：avhi9ou4rprad76jlvkq3t9s7n
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1591836056
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：商品情報を取得します。
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：SQlエラーArray
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selected AND status_id = 0 selected' at line 1
+)
+
+[11-Jun-2020 09:40:56 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 0 selected AND status_id = 0 selected
+[11-Jun-2020 09:40:56 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on int in /Users/ayaka/dev/fam/dist/function.php:320
+Stack trace:
+#0 /Users/ayaka/dev/fam/dist/index.php(33): getProductList(0, '0 selected', '0 selected')
+#1 {main}
+  thrown in /Users/ayaka/dev/fam/dist/function.php on line 320
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：セッションID：93mcv2eato8pigvjjqt5ji0u25
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118317
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:05:17 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：セッションID：ekt5jn9dlne71j1nugernh235v
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118327
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:05:27 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：セッションID：d9potpomde8ugvtsurm9dk6kjp
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118329
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:05:29 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：セッションID：7hdi9ni78elm7b5varpl0tq8jj
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118333
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 1 AND status_id = 1
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 1 AND status_id = 1 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:05:33 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：セッションID：9a2cc68rda3t3p2bkls6d0gqhp
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118338
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 1 AND status_id = 1
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 1 AND status_id = 1 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:05:38 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：セッションID：kov9mtip17t78ujhn873n73bnh
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118350
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5 AND status_id = 1
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 5 AND status_id = 1 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:05:50 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：セッションID：sfjpftu73361gb2thmai4ihafb
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118457
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5 AND status_id = 1
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 5 AND status_id = 1 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:07:37 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：セッションID：veb1nsuedbd6avp0fv4e2u9sll
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118466
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5 AND status_id = 1
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 5 AND status_id = 1 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:07:46 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：セッションID：dc81bn6f3sokmr1kprsviji5i9
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118470
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：セッションID：lvpvhenoe7td9bfh58fs1ik44l
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118470
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:07:50 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：セッションID：4o8vs5bp90jf789p0ptamn539d
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118478
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 0  AND status_id = 3
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 0  AND status_id = 3 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:07:58 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：セッションID：sbs0nrs2d46tp6d0fe8jv1sp0q
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118481
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5 AND status_id = 3
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 5 AND status_id = 3 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:08:01 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：セッションID：opr1i652a9lul89k38e60ljjo2
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118574
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5 AND status_id = 3
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 5 AND status_id = 3 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:09:34 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：セッションID：s3sbio6dutpfak0t3od32srg1h
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118606
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5 AND status_id = 3
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 5 AND status_id = 3 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:10:06 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：セッションID：3pnmua43m2d3mj2osvhgfulmnc
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118636
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5 AND status_id = 3
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 5 AND status_id = 3 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:10:36 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：セッションID：phfm0pnee5r13004g5tmaiq76h
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592118644
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 2
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 2 LIMIT 9 OFFSET 0
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:10:44 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：セッションID：2obkp6nc252vemgga2c1tcu2v7
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592119187
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:19:47 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：「　ペット詳細ページ　「
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：セッションID：c9tqkpjc0s7v98csemurr2lemf
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592119192
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：商品ID：3
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：取得したDBデータ：Array
+(
+    [id] => 3
+    [name] => こまち
+    [comment] => こまちちゃんです！可愛いです！
+    [pic1] => uploads/a31aaaa237db10bb8f12d5917af7cbe52cfff361.png
+    [pic2] => uploads/9dc9c7784af7a37ac11b6019a2d30b5a135ad4a4.png
+    [pic3] => uploads/85b7432481a999088fd10e5eee16a57806bd203e.png
+    [user_id] => 4
+    [create_date] => 2020-03-29 21:07:20
+    [update_date] => 2020-04-11 02:15:30
+    [status] => 里親募集中
+)
+
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:19:52 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 80
+[14-Jun-2020 16:19:52 Asia/Tokyo] PHP Stack trace:
+[14-Jun-2020 16:19:52 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：お気に入り情報があるか確認します。
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：ユーザーID：1
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：商品情報1
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:19:52 Asia/Tokyo] デバッグ：特に気に入っていません。
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：「　Ajax　
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：セッションID：d1hft18t45jscgvuu4j4u2ppi7
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592119195
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：Ajax処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：「　Ajax　
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：セッションID：ijgpkq7r0hrp9049fomals9es4
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592119195
+[14-Jun-2020 16:19:55 Asia/Tokyo] デバッグ：Ajax処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：「　一覧ページ　
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：セッションID：3sm2uf0b32rgtpsj9tou38rgm4
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592119199
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：商品情報を取得します。
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：現在のページ：1
+[14-Jun-2020 16:19:59 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:20:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:20:05 Asia/Tokyo] デバッグ：「　ログインページ　
+[14-Jun-2020 16:20:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:20:05 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:20:05 Asia/Tokyo] デバッグ：セッションID：2g3jpi2372k04ti03r7berf87e
+[14-Jun-2020 16:20:05 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:20:05 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592119205
+[14-Jun-2020 16:20:05 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[14-Jun-2020 16:20:05 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:20:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:20:08 Asia/Tokyo] デバッグ：「　パスワード再設定　「
+[14-Jun-2020 16:20:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:20:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:20:08 Asia/Tokyo] デバッグ：セッションID：7a75ksqi1adhibh3uj8cvo7nvd
+[14-Jun-2020 16:20:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:20:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592119208
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：「　マイページ　
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：セッションID：fp08qda33pu1ifvinmnlhsagre
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592119210
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[14-Jun-2020 16:20:10 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/mypage.php on line 19
+[14-Jun-2020 16:20:10 Asia/Tokyo] PHP Stack trace:
+[14-Jun-2020 16:20:10 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/mypage.php:0
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：自分のペットの情報を取得します。
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：ユーザーID
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：クエリ成功
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：自分のmsg情報を取得します。
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：自分のお気に入り情報を取得します。
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：ユーザーID：
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：クエリ成功。
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：クエリ成功
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：取得したペットのデータ：Array
+(
+    [data] => Array
+        (
+        )
+
+)
+
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：取得した連絡掲示板のデータ：Array
+(
+)
+
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：取得したお気に入りのデータ：Array
+(
+)
+
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：「　ログインページ　
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：セッションID：ot4r6issbvp3afubb4cl6mnkn1
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1592119210
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[14-Jun-2020 16:20:10 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：「　一覧ページ　
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：セッションID：8qhk4dfbd44f4vscl4n05ae6pf
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959283
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：商品情報を取得します。
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：現在のページ：1
+[13-Sep-2020 10:08:03 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：「　一覧ページ　
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：セッションID：80jfd26mta59lt0iocpi71o95c
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959286
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：商品情報を取得します。
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 2
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 2 LIMIT 9 OFFSET 0
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：現在のページ：1
+[13-Sep-2020 10:08:06 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：「　一覧ページ　
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：セッションID：abvomjnkffgobd9813c8ddavo2
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959291
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：商品情報を取得します。
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet WHERE category_id = 5
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet WHERE category_id = 5 LIMIT 9 OFFSET 0
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：現在のページ：1
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：「　ペット詳細ページ　「
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：セッションID：ehq1mp3t8d5ohe58f769ej3kua
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959291
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：商品情報を取得します。
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：商品ID：
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:11 Asia/Tokyo] エラー発生:指定ページに不正な値が入りました
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：取得したDBデータ：
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:11 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 80
+[13-Sep-2020 10:08:11 Asia/Tokyo] PHP Stack trace:
+[13-Sep-2020 10:08:11 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：お気に入り情報があるか確認します。
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：ユーザーID：1
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：商品情報1
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:11 Asia/Tokyo] デバッグ：特に気に入っていません。
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：「　一覧ページ　
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：セッションID：ebde7ovbqqpboif49i69flsp6b
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959292
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：商品情報を取得します。
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：現在のページ：1
+[13-Sep-2020 10:08:12 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：「　ペット詳細ページ　「
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：セッションID：ib2gf2ac4edjpnqu3ouu3s44r2
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959293
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：商品情報を取得します。
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：商品ID：3
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：取得したDBデータ：Array
+(
+    [id] => 3
+    [name] => こまち
+    [comment] => こまちちゃんです！可愛いです！
+    [pic1] => uploads/a31aaaa237db10bb8f12d5917af7cbe52cfff361.png
+    [pic2] => uploads/9dc9c7784af7a37ac11b6019a2d30b5a135ad4a4.png
+    [pic3] => uploads/85b7432481a999088fd10e5eee16a57806bd203e.png
+    [user_id] => 4
+    [create_date] => 2020-03-29 21:07:20
+    [update_date] => 2020-04-11 02:15:30
+    [status] => 里親募集中
+)
+
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:13 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 80
+[13-Sep-2020 10:08:13 Asia/Tokyo] PHP Stack trace:
+[13-Sep-2020 10:08:13 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：お気に入り情報があるか確認します。
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：ユーザーID：1
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：商品情報1
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:13 Asia/Tokyo] デバッグ：特に気に入っていません。
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：「　Ajax　
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：セッションID：7ph62tts5qc45upb9fela6cqlg
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959296
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：Ajax処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：「　Ajax　
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：セッションID：65cb4la2fhd5m0pj4a4olfluo3
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959296
+[13-Sep-2020 10:08:16 Asia/Tokyo] デバッグ：Ajax処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:25 Asia/Tokyo] デバッグ：「　ログインページ　
+[13-Sep-2020 10:08:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:25 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:25 Asia/Tokyo] デバッグ：セッションID：vpnqpa7vnj4trkb4s9633h3ocn
+[13-Sep-2020 10:08:25 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:25 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959305
+[13-Sep-2020 10:08:25 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[13-Sep-2020 10:08:25 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:28 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[13-Sep-2020 10:08:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:28 Asia/Tokyo] デバッグ：セッションID：d0768rk5irg4ba0tl7r6qc2de1
+[13-Sep-2020 10:08:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959308
+[13-Sep-2020 10:08:28 Asia/Tokyo] PHP Notice:  Undefined variable: siteTitle in /Users/ayaka/dev/fam/dist/head.php on line 9
+[13-Sep-2020 10:08:28 Asia/Tokyo] PHP Stack trace:
+[13-Sep-2020 10:08:28 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/signup.php:0
+[13-Sep-2020 10:08:28 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/fam/dist/signup.php:69
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：「　一覧ページ　
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：セッションID：gnrddb09epf7fkvos18iqrfach
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959314
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：商品情報を取得します。
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：現在のページ：1
+[13-Sep-2020 10:08:34 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:39 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[13-Sep-2020 10:08:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:39 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:39 Asia/Tokyo] デバッグ：セッションID：l69s201icpubp4cs3cu7iqrbp8
+[13-Sep-2020 10:08:39 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:39 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959319
+[13-Sep-2020 10:08:39 Asia/Tokyo] PHP Notice:  Undefined variable: siteTitle in /Users/ayaka/dev/fam/dist/head.php on line 9
+[13-Sep-2020 10:08:39 Asia/Tokyo] PHP Stack trace:
+[13-Sep-2020 10:08:39 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/signup.php:0
+[13-Sep-2020 10:08:39 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/fam/dist/signup.php:69
+[13-Sep-2020 10:08:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:42 Asia/Tokyo] デバッグ：「　ログインページ　
+[13-Sep-2020 10:08:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:42 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:42 Asia/Tokyo] デバッグ：セッションID：t1tsce964vuhqcdt13u2k1aav0
+[13-Sep-2020 10:08:42 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:42 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959322
+[13-Sep-2020 10:08:42 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[13-Sep-2020 10:08:42 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：「　一覧ページ　
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：セッションID：qvija3ou8an7vas3vseg67dq9t
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959324
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：商品情報を取得します。
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：クエリ：SELECT id FROM pet
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：SQL：SELECT * FROM pet LIMIT 9 OFFSET 0
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：ステータス情報を取得します。
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：現在のページ：1
+[13-Sep-2020 10:08:44 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：「　ペット詳細ページ　「
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：セッションID：eo0qijdshfmglrkhat8nm28str
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959327
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：商品情報を取得します。
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：商品ID：3
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：取得したDBデータ：Array
+(
+    [id] => 3
+    [name] => こまち
+    [comment] => こまちちゃんです！可愛いです！
+    [pic1] => uploads/a31aaaa237db10bb8f12d5917af7cbe52cfff361.png
+    [pic2] => uploads/9dc9c7784af7a37ac11b6019a2d30b5a135ad4a4.png
+    [pic3] => uploads/85b7432481a999088fd10e5eee16a57806bd203e.png
+    [user_id] => 4
+    [create_date] => 2020-03-29 21:07:20
+    [update_date] => 2020-04-11 02:15:30
+    [status] => 里親募集中
+)
+
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:47 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 80
+[13-Sep-2020 10:08:47 Asia/Tokyo] PHP Stack trace:
+[13-Sep-2020 10:08:47 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：お気に入り情報があるか確認します。
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：ユーザーID：1
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：商品情報1
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:47 Asia/Tokyo] デバッグ：特に気に入っていません。
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：「　ペット詳細ページ　「
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：セッションID：f24v35qtgjd41274r62if0vqn3
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959333
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：商品情報を取得します。
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：商品ID：3
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：取得したDBデータ：Array
+(
+    [id] => 3
+    [name] => こまち
+    [comment] => こまちちゃんです！可愛いです！
+    [pic1] => uploads/a31aaaa237db10bb8f12d5917af7cbe52cfff361.png
+    [pic2] => uploads/9dc9c7784af7a37ac11b6019a2d30b5a135ad4a4.png
+    [pic3] => uploads/85b7432481a999088fd10e5eee16a57806bd203e.png
+    [user_id] => 4
+    [create_date] => 2020-03-29 21:07:20
+    [update_date] => 2020-04-11 02:15:30
+    [status] => 里親募集中
+)
+
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：POST送信があります。
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[13-Sep-2020 10:08:53 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 38
+[13-Sep-2020 10:08:53 Asia/Tokyo] PHP Stack trace:
+[13-Sep-2020 10:08:53 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：SQlエラーArray
+(
+    [0] => 23000
+    [1] => 1048
+    [2] => Column 'buy_user' cannot be null
+)
+
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:08:53 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/petDetail.php on line 80
+[13-Sep-2020 10:08:53 Asia/Tokyo] PHP Stack trace:
+[13-Sep-2020 10:08:53 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/petDetail.php:0
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：お気に入り情報があるか確認します。
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：ユーザーID：1
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：商品情報1
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：特に気に入っていません。
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：「　ログインページ　
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：セッションID：9pddos381nnikp6a54immjv59i
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959333
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[13-Sep-2020 10:08:53 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:09:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:09:00 Asia/Tokyo] デバッグ：「　パスワード再設定　「
+[13-Sep-2020 10:09:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:09:00 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:09:00 Asia/Tokyo] デバッグ：セッションID：d2tohekggscgsfsq18mjvju1dc
+[13-Sep-2020 10:09:00 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:09:00 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959340
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：「　マイページ　
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：セッションID：jvnvgtbep3f958jgee2tk8s8i9
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959350
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[13-Sep-2020 10:09:10 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Users/ayaka/dev/fam/dist/mypage.php on line 19
+[13-Sep-2020 10:09:10 Asia/Tokyo] PHP Stack trace:
+[13-Sep-2020 10:09:10 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/mypage.php:0
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：自分のペットの情報を取得します。
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：ユーザーID
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：クエリ成功
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：自分のmsg情報を取得します。
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：自分のお気に入り情報を取得します。
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：ユーザーID：
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：クエリ成功。
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：クエリ成功
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：取得したペットのデータ：Array
+(
+    [data] => Array
+        (
+        )
+
+)
+
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：取得した連絡掲示板のデータ：Array
+(
+)
+
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：取得したお気に入りのデータ：Array
+(
+)
+
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：「　ログインページ　
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：セッションID：medc9kmogg152ok525pa6fapi5
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959350
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[13-Sep-2020 10:09:10 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[13-Sep-2020 10:09:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:09:15 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[13-Sep-2020 10:09:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Sep-2020 10:09:15 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[13-Sep-2020 10:09:15 Asia/Tokyo] デバッグ：セッションID：7bv88ma541re33mggi42acsfpg
+[13-Sep-2020 10:09:15 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[13-Sep-2020 10:09:15 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1599959355
+[13-Sep-2020 10:09:15 Asia/Tokyo] PHP Notice:  Undefined variable: siteTitle in /Users/ayaka/dev/fam/dist/head.php on line 9
+[13-Sep-2020 10:09:15 Asia/Tokyo] PHP Stack trace:
+[13-Sep-2020 10:09:15 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/fam/dist/signup.php:0
+[13-Sep-2020 10:09:15 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/fam/dist/signup.php:69

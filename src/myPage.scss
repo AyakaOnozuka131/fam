@@ -1,0 +1,203 @@
+/* ------------------------------
+- マイページ 関連CSS
+------------------------------ */
+.myPage_contents {
+  margin: 40px 0;
+
+  .main_heading {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 24px;
+  }
+
+  .block_head {
+    margin-bottom: 24px;
+    .heading {
+      padding: .25em 0 .25em .75em;
+      border-left: 6px solid #f2a49b;
+    }
+  }
+
+  .main_column {
+    width: 100%;
+    .mypage_block{
+      &+.mypage_block{
+        margin-top: 32px;
+      }
+    }
+    .block_content{
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+    }
+    .block_item {
+      width: 48%;
+      margin-right: 3%;
+      box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.18);
+      transition: 0.3s ease-in-out;
+      -webkit-transition: 0.3s ease-in-out;
+      -moz-transition: 0.3s ease-in-out;
+      position: relative;
+
+      a {
+        width: 100%;
+      }
+
+      &:nth-child(2n) {
+        margin-right: 0;
+      }
+
+      &:nth-child(n+3) {
+        margin-top: 24px;
+      }
+
+      .tag {
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: block;
+        padding: 8px 16px;
+        color: #ffffff;
+
+        &.decision {
+          background: #F06292;
+        }
+
+        &.recruiting {
+          background: #4DB6AC;
+        }
+
+        &.finish {
+          background: #B0BEC5;
+        }
+      }
+
+      .list_heading {
+        font-size: 14px;
+        margin-bottom: 8px;
+      }
+
+      .item_text {
+        font-size: 12px;
+        padding: 16px;
+      }
+    }
+    .table{
+      border-collapse: separate;
+      border-spacing: 0 5px;
+      .head_table{
+        text-align: left;
+        margin-bottom: 8px;
+      }
+      .head_msg{
+        width: 50%;
+      }
+      td{
+        font-size: 11px;
+        vertical-align: middle;
+      }
+    }
+  }
+
+  .side_column {
+    width: 100%;
+    margin-top: 40px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    text-align: center;
+
+    a {
+      width: 50%;
+      text-decoration: underline;
+
+      &:nth-child(n+3) {
+        margin-top: 8px;
+      }
+    }
+  }
+}
+
+@include mq-up() {
+  .myPage_contents {
+    margin: 40px 0;
+
+    .main_heading {
+      margin-bottom: 32px;
+    }
+
+    .myPage_contents_inner {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+    }
+
+    .main_column {
+      width: 75%;
+      .mypage_block{
+        &+.mypage_block{
+          margin-top: 24px;
+        }
+      }
+      .block_item {
+        width: 22%;
+        margin-right: 2%;
+
+        &:nth-child(2n) {
+          margin-right: 2%;
+        }
+        &:nth-child(4n) {
+          margin-right: 0;
+        }
+  
+  
+        &:nth-child(n+3) {
+          margin-top: 0;
+        }
+      }
+      .table{
+        .head_table{
+          text-align: left;
+        }
+        .head_msg{
+          width: 70%;
+        }
+        td{
+          font-size: 14px;
+          vertical-align: middle;
+        }
+      }
+    }
+
+    .side_column {
+      margin-top: 0;
+      display: block;
+      text-align: left;
+      width: 22%;
+      padding: 24px;
+      background: $bg-gray;
+      border-radius: 5px;
+
+      a {
+        width: 100%;
+        display: block;
+        text-decoration: underline;
+
+        &:hover {
+          opacity: 0.7;
+        }
+
+        +a {
+          margin-top: 8px;
+        }
+      }
+    }
+  }
+}
